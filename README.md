@@ -1,29 +1,28 @@
-# My Shopping List- Basic React Website
+## Education-focused Basic React Website - Shopping List
 
-One-page basic web application developed using React, JavaScript, HTML, and CSS. Utilized React components with props for modular design and seamless data flow. The design is kept simple, clean, and straightforward.
+One-page basic web application developed using React, JavaScript, HTML, and CSS. Utilized React components with props for seamless data flow. 
 
-<h3 align="left">Languages and Tools used in this project:</h3>
+#### Languages and Tools used in this project:
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,html,css,bootstrap,nodejs)](https://skillicons.dev)
 
-### Front-End Development Languages
-- JavaScript 
-- React
-- CSS 3
-- HTML 5 
+#### Development Languages
+- [ ] JavaScript, Node.JS, React, CSS 3, HTML 5.
+ 
+#### Objectives 
+- [x] React Components - Fundamental for app structure, encourages modular, reusable code.
+- [x] React Props - Enables parent-child data communication.
 
-### Back-End Development Languages
-- Node.JS  
+<br>
 
-
-### Website preview
+#### Website preview
 
 ![myShoppingList](https://github.com/shanibider/shoppingList/assets/72359805/690a87f0-0990-47be-b7d5-6d23502574cb)
 
 
 
 #
-## To Run Locally-
+#### To Run Locally-
 
 ```
 open new terminal
